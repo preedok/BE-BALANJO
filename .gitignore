@@ -1,0 +1,8 @@
+node_modules
+.env
+**/.drawio
+Flowchart.drawio
+**/.jfif
+**/.png
+**/.jpeg
+**/.jpg

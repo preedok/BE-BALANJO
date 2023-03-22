@@ -1,11 +1,11 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="150" src="https://iili.io/H3ze4kv.png" alt="telegram" border="0"/>
+  <img height="150" src="" alt="telegram" border="0"/>
 </div>
-  <h3 align="center">Backend insan cita chat</h3>
+  <h3 align="center">Backend Balanjo</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/BE-CHAT/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/preedok/BE-BALANJO/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="/">View Demo</a>
     ·
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Telegram Rest API is server api that used in Telegram . This server manage all function and endpoint in telegram app such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
+Blanjo API is a RESTful API used in Blanja Aplication. This API handle user management (customer & seller), get lists of products, product detail, and order operation (mybag, checkout, & myorder).
 
 ### Built With
 
@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone https://github.com/Iqbalapredo/BE-CHAT.git
+git clone https://github.com/preedok/BE-BALANJO.git
 ```
 - Go To Folder Repo
 ```
@@ -110,9 +110,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Telegram`](https://github.com/Iqbalapredo/BE-CHAT)
+:rocket: [`Backend Telegram`](https://github.com/preedok/BE-BALANJO)
 
-:rocket: [`Frontend Telegram`](https://github.com/Iqbalapredo/FE-CHAT)
+:rocket: [`Frontend Telegram`](https://github.com/preedok/FE-BALANJO)
 
 :rocket: [`Demo Telegram`](/)
 
@@ -121,4 +121,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-CHAT/](https://github.com/Iqbalapredo/BE-CHAT)
+Project Link: [https://github.com/preedok/BE-BALANJO/](https://github.com/preedok/BE-BALANJO)

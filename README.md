@@ -41,7 +41,6 @@ Blanjo API is a RESTful API used in Blanja Aplication. This API handle user mana
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
 - [JSON Web Tokens](https://jwt.io/)
-- [Socket IO](https://socket.io/docs/v4/)
 - and other
 
 <!-- GETTING STARTED -->

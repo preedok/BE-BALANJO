@@ -1,13 +1,13 @@
 <br />
 <p align="center">
 <div align="center">
-<!--   <img height="150" src="" alt="Balanjo" border="0"/> -->
+<!-- <img height="150" src="" alt="Balanjo" border="0"/> -->
 </div>
   <h3 align="center">Backend Balanjo</h3>
   <p align="center">
     <a href="https://github.com/preedok/BE-BALANJO/"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="/">View Demo</a>
+    <a href="https://balanjo-api.cyclic.app">View Demo</a>
     ·
  
   </p>
@@ -94,6 +94,9 @@ DB_PORT
 PORT
 JWT_SECRET
 ```
+## Endpoint List
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/23292228/2s93RUvsMo)
 
 
 <!-- CONTRIBUTING -->
@@ -114,7 +117,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend Telegram`](https://github.com/preedok/FE-BALANJO)
 
-:rocket: [`Demo Telegram`](/)
+:rocket: [`Demo Telegram`](https://balanjo-api.cyclic.app)
 
 <!-- CONTACT -->
 ## Contact

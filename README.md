@@ -69,7 +69,7 @@ git clone https://github.com/preedok/BE-BALANJO.git
 - Go To Folder Repo
 
 ```
-cd Telegram-BE
+cd BE-BALANJO
 ```
 
 - Install Module

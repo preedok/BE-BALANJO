@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-<!-- <img height="150" src="" alt="Balanjo" border="0"/> -->
+<img height="150" src="../readme/balanjo.png" alt="Balanjo" border="0"/>
 </div>
   <h3 align="center">Backend Balanjo</h3>
   <p align="center">
@@ -13,9 +13,8 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -31,9 +30,8 @@
 - [Related Project](#related-project)
 - [Contact](#contact)
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Blanjo API is a RESTful API used in Blanja Aplication. This API handle user management (customer & seller), get lists of products, product detail, and order operation (mybag, checkout, & myorder).
@@ -47,36 +45,43 @@ Blanjo API is a RESTful API used in Blanja Aplication. This API handle user mana
 - and other
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* [nodejs](https://nodejs.org/en/download/)
+- [nodejs](https://nodejs.org/en/download/)
 
 ### Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Postman](https://www.getpostman.com/) for testing
 
+- [Node.js](https://nodejs.org/en/)
+- [Postman](https://www.getpostman.com/) for testing
 
 ### Installation
 
 - Clone This Back End Repo
+
 ```
 git clone https://github.com/preedok/BE-BALANJO.git
 ```
+
 - Go To Folder Repo
+
 ```
 cd Telegram-BE
 ```
+
 - Install Module
+
 ```
 npm install
 ```
 
 - <a href="#setup-env-example">Setup .env</a>
 - Starting application
+
 ```
 npm start
 ```
@@ -87,19 +92,20 @@ Create .env file in your root project folder.
 
 ```env
 DB_USERNAME
-DB_HOST 
+DB_HOST
 DB_DATABASE
-DB_PASSWORD 
+DB_PASSWORD
 DB_PORT
 PORT
 JWT_SECRET
 ```
+
 ## Endpoint List
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/23292228/2s93RUvsMo)
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -110,9 +116,8 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 ## Related Project
+
 :rocket: [`Backend Telegram`](https://github.com/preedok/BE-BALANJO)
 
 :rocket: [`Frontend Telegram`](https://github.com/preedok/FE-BALANJO)
@@ -120,6 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 :rocket: [`Demo Telegram`](https://balanjo-api.cyclic.app)
 
 <!-- CONTACT -->
+
 ## Contact
 
 My Email : iqbalapreedo@gmail.com

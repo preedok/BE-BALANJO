@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-<img height="150" src="../readme/balanjo.png" alt="Balanjo" border="0"/>
+<img height="150" src="./readme/balanjo.png" alt="Balanjo" border="0"/>
 </div>
   <h3 align="center">Backend Balanjo</h3>
   <p align="center">

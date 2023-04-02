@@ -97,6 +97,10 @@ DB_PASSWORD
 DB_PORT
 PORT
 JWT_SECRET
+
+CLOUD_NAME
+API_KEY
+API_SECRET
 ```
 
 ## Endpoint List
@@ -117,11 +121,11 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Telegram`](https://github.com/preedok/BE-BALANJO)
+:rocket: [`Backend Balanjo`](https://github.com/preedok/BE-BALANJO)
 
-:rocket: [`Frontend Telegram`](https://github.com/preedok/FE-BALANJO)
+:rocket: [`Frontend Balanjo`](https://github.com/preedok/FE-BALANJO)
 
-:rocket: [`Demo Telegram`](https://balanjo-api.cyclic.app)
+:rocket: [`Demo Balajo`](https://balanjo-api.cyclic.app)
 
 <!-- CONTACT -->
 

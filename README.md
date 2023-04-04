@@ -125,7 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend Balanjo`](https://github.com/preedok/FE-BALANJO)
 
-:rocket: [`Demo Balajo`](https://balanjo-api.cyclic.app)
+:rocket: [`Demo Balajo`](https://balanjoyok.vercel.app/)
 
 <!-- CONTACT -->
 

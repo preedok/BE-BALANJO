@@ -34,7 +34,7 @@
 
 ## About The Project
 
-Blanjo API is a RESTful API used in Blanja Aplication. This API handle user management (customer & seller), get lists of products, product detail, and order operation (mybag, checkout, & myorder).
+Balanjo API is a RESTful API used in Balanjo Aplication. This API handle user management (customer & seller), get lists of products, product detail, and order operation (mybag, checkout, & myorder).
 
 ### Built With
 
